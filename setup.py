@@ -14,7 +14,7 @@ setup(
     long_description_content_type="text/markdown",
     author="Tim Hatch",
     author_email="tim@timhatch.com",
-    url="https://github.com/thatch/honesty",
+    url="https://github.com/python-packaging/honesty",
     classifiers=[
         "Development Status :: 4 - Beta",
         "Environment :: Console",
